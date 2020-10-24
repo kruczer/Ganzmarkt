@@ -1,0 +1,574 @@
+[
+    {
+            "ItemId": "0",
+            "ItemName": "Fist",
+            "ItemPrice": "0",
+            "ItemRarity": "Common",
+            "ItemRange": "Close Combat",
+            "ItemStrength": "As user -1",
+            "ItemSpecial" : "<table class='MWSpecialTable'><tr><td>+1 Enemy armour save</td><td>An enemy wounded by a fist gains a +1 bonus to his armour save, and a 6+ armour save if he normally has none.</td></tr></table>",
+            "ItemOrigin": "Mordheim p24",
+            "ItemRestriction": "All"
+        },
+        {
+            "ItemId": "1",
+            "ItemName": "Dagger",
+            "ItemPrice": "2",
+            "ItemRarity": "Common",
+            "ItemRange": "Close Combat",
+            "ItemStrength": "As user -1",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>+1 Enemy armour save</td><td>Daggers are not the best weapons to use for penetrating an enemy model’s armour. An enemywounded by a dagger gains a +1 bonus to his armour save,and a 6+ armour save if he has none normally.</td></tr></table>",
+            "ItemOrigin": "Mordheim p24",
+            "ItemRestriction": "All"
+        },
+        {
+            "ItemId": "2",
+            "ItemName": "Hammer",
+            "ItemPrice": "3",
+            "ItemRarity": "Common",
+            "ItemRange": "Close Combat",
+            "ItemStrength": "As user",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Concussion</td><td>Hammers are excellent to use for striking your enemy senseless. When using a hammer a roll of 2-4 is treated as stunned when rolling to see the extent of a model's injuries.</td></tr></table>",
+            "ItemOrigin": "Mordheim p24",
+            "ItemRestriction": "All"
+        },
+        {
+            "ItemId": "3",
+            "ItemName": "Staff",
+            "ItemPrice": "3",
+            "ItemRarity": "Common",
+            "ItemRange": "Close Combat",
+            "ItemStrength": "As user",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Concussion</td><td>Staffs are excellent to use for striking your enemy senseless. When using a staff a roll of 2-4 is treated as stunned when rolling to see the extent of a model's injuries.</td></tr></table>",
+            "ItemOrigin": "Mordheim p24",
+            "ItemRestriction": "All"
+        },
+        {
+            "ItemId": "4",
+            "ItemName": "Mace",
+            "ItemPrice": "3",
+            "ItemRarity": "Common",
+            "ItemRange": "Close Combat",
+            "ItemStrength": "As user",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Concussion</td><td>Maces are excellent to use for striking your enemy senseless. When using a mace a roll of 2-4 is treated as stunned when rolling to see the extent of a model's injuries.</td></tr></table>",
+            "ItemOrigin": "Mordheim p24",
+            "ItemRestriction": "All"
+        },
+        {
+            "ItemId": "5",
+            "ItemName": "Club",
+            "ItemPrice": "3",
+            "ItemRarity": "Common",
+            "ItemRange": "Close Combat",
+            "ItemStrength": "As user",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Concussion</td><td>Clubs are excellent to use for striking your enemy senseless. When using a club a roll of 2-4 is treated as stunned when rolling to see the extent of a model's injuries.</td></tr></table>",
+            "ItemOrigin": "Mordheim p24",
+            "ItemRestriction": "All"
+        },
+        {
+            "ItemId": "6",
+            "ItemName": "Axe",
+            "ItemPrice": "5",
+            "ItemRarity": "Common",
+            "ItemRange": "Close Combat",
+            "ItemStrength": "As user",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Cutting edge</td><td>An axe has an extra save modifier of -1, so a model with Strength 4 using an axe has a -2 save modifier when he hits an opponent in hand-to-hand combat.</td></tr></table>",
+            "ItemOrigin": "Mordheim p25",
+            "ItemRestriction": "All"
+        },
+        {
+            "ItemId": "7",
+            "ItemName": "Sword",
+            "ItemPrice": "10",
+            "ItemRarity": "Common",
+            "ItemRange": "Close Combat",
+            "ItemStrength": "As user",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Parry</td><td>Swords offer an excellent balance of defence and offence. A model armed with a sword may parry blows. When his opponent rollsto hit, the model armed with a sword may roll a D6. If the score is greater than the highest to hit score of his opponent, the model has parried the blow, and that attack is discarded. A model may not parry attacks made with double or more its own Strength – they are simply too powerful to be stopped.</td></tr></table>",
+            "ItemOrigin": "Mordheim p25",
+            "ItemRestriction": "All"
+        },
+        {
+            "ItemId": "8",
+            "ItemName": "Flail",
+            "ItemPrice": "15",
+            "ItemRarity": "Common",
+            "ItemRange": "Close Combat",
+            "ItemStrength": "As user +2",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Heavy</td><td>A Flail is extremely tiring to use and thus the +2 Strength bonus applies only in the first turn of each hand-to-hand combat.</td></tr><tr><td>Two-handed</td><td>As a Flail requires two hands to use, amodel using a Flail may not use a shield, buckler or additional weapon in close combat. If the model has a shield he still gets a +1 bonus to his armour save against shooting.</td></tr></table>",
+            "ItemOrigin": "Mordheim p25",
+            "ItemRestriction": "All"
+        },
+        {
+            "ItemId": "9",
+            "ItemName": "Morning star",
+            "ItemPrice": "15",
+            "ItemRarity": "Common",
+            "ItemRange": "Close Combat",
+            "ItemStrength": "As user +1",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Heavy</td><td>The morning star is extremely tiring to use, so its +1 Strength bonus applies only in the firstturn of each hand-to-hand combat.</td></tr><tr><td>Difficult to use</td><td>A  model  with  a  morning  star  may  not  use  a  second weapon or buckler in his other hand because it requires all his skill to wield it. He may carry a shield as normal though.</td></tr></table>",
+            "ItemOrigin": "Mordheim p26",
+            "ItemRestriction": "All"
+        },
+        {
+            "ItemId": "10",
+            "ItemName": "Halberd",
+            "ItemPrice": "10",
+            "ItemRarity": "Common",
+            "ItemRange": "Close Combat",
+            "ItemStrength": "As user +1",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Two-handed</td><td>A model armed with a halberd may not use a shield, buckler or additional weapon in close combat.If the model has a shield he still gets a +1bonus to his armour save against shooting.</td></tr></table>",
+            "ItemOrigin": "Mordheim p26",
+            "ItemRestriction": "All"
+        },
+        {
+            "ItemId": "11",
+            "ItemName": "Spear",
+            "ItemPrice": "10",
+            "ItemRarity": "Common",
+            "ItemRange": "Close Combat",
+            "ItemStrength": "As user",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Strike first</td><td>A warrior with a spear strikes first in the first turn of hand-to-hand combat.</td></tr><tr><td>Unwieldy</td><td>A warrior with a spear may only use a shield or a buckler in his other hand. He may not use a second weapon.</td></tr><tr><td>Cavalry bonus</td><td>If using the rules for mounted models, a mounted warrior armed with a spear receives a +1 Strength bonus when h charges. This bonus only applies for that turn.</td></tr></table>",
+            "ItemOrigin": "Mordheim p26",
+            "ItemRestriction": "All"
+        },
+        {
+            "ItemId": "12",
+            "ItemName": "Lance",
+            "ItemPrice": "40",
+            "ItemRarity": "8",
+            "ItemRange": "Close Combat",
+            "ItemStrength": "As user +2",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Cavalry weapon</td><td>A warrior must own a warhorse to use a lance, as it can only be used whilst he is on horseback.</td></tr><tr><td>Cavalry bonus</td><td>If using optional rules for mounted models, a warrior armed with a lance receives a +2 Strength bonus when he charges. This bonus only applies for that turn.</td></tr></table>",
+            "ItemOrigin": "Mordheim p27",
+            "ItemRestriction": "All"
+        },
+        {
+            "ItemId": "13",
+            "ItemName": "Double-handed weapon",
+            "ItemPrice": "15",
+            "ItemRarity": "Common",
+            "ItemRange": "Close Combat",
+            "ItemStrength": "As user +2",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Two-handed</td><td>A model armed with a double-handed weapon may not use a shield, buckler or additional weapon in close combat. If the model is equipped with a shield he will still get a +1 bonus to his armour save against shooting.</td></tr><tr><td>Strike last</td><td>Double-handed weapons are so heavy that the model using them always strikes last, even when charging.</td></tr></table>",
+            "ItemOrigin": "Mordheim p27",
+            "ItemRestriction": "All"
+        },
+        {
+            "ItemId": "14",
+            "ItemName": "Gromril weapon",
+            "ItemPrice": "4xPrice",
+            "ItemRarity": "11",
+            "ItemRange": "As on weapon",
+            "ItemStrength": "As on weapon",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Gromril</td><td>A gromril weapon has an extra -1 save modifier, and costs four times the price of a normal weapon of its kind. You may choose which type of hand-to-hand weapon is offered to you as explained in the Trading section.</td></tr></table>",
+            "ItemOrigin": "Mordheim p27",
+            "ItemRestriction": "All"
+        },
+        {
+            "ItemId": "15",
+            "ItemName": "Ithilmar weapon",
+            "ItemPrice": "3xPrice",
+            "ItemRarity": "9",
+            "ItemRange": "As on weapon",
+            "ItemStrength": "As on weapon",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Ithilmar</td><td>An ithilmar weapon gives its user +1 Initiative in hand-to-hand combat, and costs three times the price of a normal weapon of its kind. You may choose which hand-to-hand weapon is offered to you as explained in the Trading section.</td></tr></table>",
+            "ItemOrigin": "Mordheim p27",
+            "ItemRestriction": "All"
+        },
+        {
+            "ItemId": "16",
+            "ItemName": "Ball and Chain",
+            "ItemPrice": "15",
+            "ItemRarity": "Common",
+            "ItemRange": "Close Combat",
+            "ItemStrength": "As user +2",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Madmen only</td><td>Can be used only when combined with Mad Cap Mushrooms</td></tr><tr><td>Always chargin'</td><td>If the Ball and Chain wielding model moves into contact wiht another model (friend or foe), he counts as charging into close combat, and will engage in close combat until his next Movement phase.</td></tr><tr><td>Evasive</td><td>Opponents wishing to attack a Ball and Chain wieldking model suffer a -1 To Hit penalty.</td></tr><tr><td>Always spinnin'</td><td>The Ball and Chain wielder cannot be held in close combat and will automatically move even if he starts the Movement phase in base contact with another model.</td></tr><tr><td>Crash</td><td>If the model moves into contact with a building, wall or other obstruction, he is automatically taken Out of Action.</td></tr><tr><td>Busy spinnin'</td><td>Ignores the special rules for Animosity.</td></tr><tr><td>Incredible force</td><td>Because the Ball and Chain is so heavey, normal armour does very little to protect against it. No armour saves are allowed against wounds caused by a Ball and Chain. In addition, any hit from a Ball and Chain is very likely to take off someone's head (or at least break some ribs!). Therefore, any hit that successfully wounds will do 1D3 wounds instead of 1.</td></tr><tr><td>Cumbersome</td><td>Because the Ball and Chain is so heacy, a model equipped with one may carry no other weapons or equipment.</td></tr><tr><td>Unwieldy</td><td>The great weight of the Ball and Chain can easily tear ligaments or pull a wielder's arms out of their sockets. While someone under the influence of Mad Cap Mushrooms will not notice such effects, when the drug wears off he will be in great pain. To represent this, at the end of the batlle the controlling player must roll for Injury for each model that used a Ball and Chain, just as if the model had been taken Out Of Action. If the model was actually taken Out Of Action normally, just roll once for Injury.</td></tr><tr><td>Random</td><td>The only way to wield a Ball and Chain is to swing it around in large circles, using your body as a counter-weight. Unfortunately this is not a very controllable fighting style, and as soon as he starts swinging his Ball and Chain, a warrior starts to lose control. The first turn he starts swinking the Ball and Chain, the model is moved 2D6`` in a direction nominated by the controlling player. In his subsequent Movement phases, roll a D6 to determine what the model does:<table><tr><th>D6</th><th>Effect</th></tr><tr><td>1</td><td>The model trips and strangles himself with the chain. The model is taken Out Of Action. When rolling for Injury after the game, a roll of 1-3 measn the model is out permanently, instead of the normal 1-2.</td></tr><tr><td>2-5</td><td>The model moves 2D6`` in a direction nominated by the controlling player.</td></tr><td>6</td><td>The model moves 2D6`` in a random direction. If the player owns a Scatter dice, roll that to determine direction. If not, then roll a D6: 1-Straight Forward, 2-3 - Right, 4-5 - Left, 6 - Straight Back.</td><tr></tr></table></td></tr></table>",
+            "ItemOrigin": "Mordheim Annual 2002 p12",
+            "ItemRestriction": "Goblins"
+        },
+        {
+            "ItemId": "17",
+            "ItemName": "Brazier Iron",
+            "ItemPrice": "35",
+            "ItemRarity": "7",
+            "ItemRange": "Close Combat",
+            "ItemStrength": "As user +1",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Two-handed</td><td>As a brazier requires two hands to use, a model using a brazier may not use a shield, buckler or additional weapon in close combat. If the model has a shield he still gets a +1 bonus to his armour save against shooting.</td></tr><tr><td>Fire</td><td>Whenever you score a successful hit with the brazier staff roll a D6. If you roll a 5+ the civtim is set on fire. If the warrior survives the attack they must score a 4+ in the Recovery phase or suffer a Strength 4 hit each turn they are on fire and will be unable to do anything other then move. Other warriors from the same warband may help to put the flames out if they wish. They must move into base-to-base contact and score a 4+ in the Recovery phase.</td></tr></table>",
+            "ItemOrigin": "Mordheim Annual 2002 p85",
+            "ItemRestriction": "Witch Hunters"
+        },
+        {
+            "ItemId": "18",
+            "ItemName": "Fighting Claws",
+            "ItemPrice": "35",
+            "ItemRarity": "7",
+            "ItemRange": "Close Combat",
+            "ItemStrength": "As user",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Pair</td><td>Fighting Claws are traditionally used in pairs, one in each hand. A warrior armed with Fighting Claws gets an additional attack.</td></tr><tr><td>Climb</td><td>A Skaven equipped with Fighting Claws can add +1 to his Initiative when making Climbing tests.</td></tr><tr><td>Parry</td><td>A Skaven armed with Fighting Claws may parry blows and can re=roll a failed attempt once, in the same way as a model armed with a sword and buckler.</td></tr><tr><td>Cumbersome</td><td>A model armed with Fighting Claws may not use any other weapons in the entire battle.</td></tr></table>",
+            "ItemOrigin": "Mordheim p29",
+            "ItemRestriction": "Skaven"
+        },
+        {
+            "ItemId": "19",
+            "ItemName": "Claw of the Old Ones",
+            "ItemPrice": "30",
+            "ItemRarity": "12",
+            "ItemRange": "Close Combat",
+            "ItemStrength": "As user +1",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>No Save</td><td>The blade of the Claw can literally cut through anything. A warrior wounded by a Claw receives no armour save whatsoever.</td></tr><tr><td>Parry</td><td>User may Parry as per normal rules.</td></tr></table>",
+            "ItemOrigin": "TC 23 p7",
+            "ItemRestriction": "Amazons"
+        },
+        {
+            "ItemId": "20",
+            "ItemName": "Dwarf Axe",
+            "ItemPrice": "15",
+            "ItemRarity": "8",
+            "ItemRange": "Close Combat",
+            "ItemStrength": "As user",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Cutting Edge</td><td>Dwarf axes have an extra save modifier of -1, so a model with Strength 4 using a Dwarf axe has a -2 save modifier when he hits an opponent with the axe in close combat.</td></tr><tr><td>Parry</td><td>Dwarf axes offer an excellent balance of defence and offence. A model armed with a Dwarf axe may parry blows. When his opponent rolls to hit, the model armed with a Dwarf axe may roll a D6. If the score is greater than the highest to hit score of his opponent. the model has parried the blow and that attack is discarded. A model may not parry attacks made with double or more its own Strength - they are simply too powerful to be stopped. A model may not parry more than one attack in a single Close Combat phase; a model armed with two Dwarf axes (or a Dwarf axe and a sword, etc) does not get to parry two attacks by may instead re-roll a failed parry.</td></tr></table>",
+            "ItemOrigin": "Mordheim Annual 2002 p27",
+            "ItemRestriction": "Dwarfs"
+        },
+        {
+            "ItemId": "21",
+            "ItemName": "Horseman's Hammer",
+            "ItemPrice": "12",
+            "ItemRarity": "10",
+            "ItemRange": "Close Combat",
+            "ItemStrength": "As user +1",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Two-handed</td><td>A model armed with a horseman's hammer may not use a shield, buckler, or additional weapon in close combat. If the model is equipped with a shield he will still get a +1 bonus to his Armour save against shooting.</td></tr><tr><td>Cavalry Charge</td><td>A model armed with a horseman's hammer may use the speed of his charge to increase the might of his attackts. A model on a steed wiht a horseman's hammer gains a further +1 Strength bonus when he charges. This bonus only applies for that turn.</td></tr></table>",
+            "ItemOrigin": "EiF p16",
+            "ItemRestriction": "Dwarfs"
+        },
+        {
+            "ItemId": "22",
+            "ItemName": "Rapier",
+            "ItemPrice": "15",
+            "ItemRarity": "5",
+            "ItemRange": "Close Combat",
+            "ItemStrength": "As user",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Parry</td><td>Like all swords, you may use a rapier to parry in hand to hand combat. When your opponent scores a hit you must roll a D6. If you can score greaterr than the highest 'to hit' roll you have parried the blow and the attack is discarded.</td></tr><tr><td>Barrage</td><td>A warrior armed with a rapier rolls to hit and wound as normal. However, if you manage to hit your opponent but fail to wound, you may attack again just as if you had another attack but at -1 to hit (down to maximum to needing a 6 to hit). You may continue attacking as long as as you hit and it is possible to strike your opponent many times, particularly if your warrior has more then one attack on his profile.</td></tr><tr><td>Armour Save</td><td>Becasue a rapier is a very light sword that lacks the thick armour breaking blade of the broadsword, armour saves are made at +1.</td></tr></table>",
+            "ItemOrigin": "Mordheim Annual 2002 p84",
+            "ItemRestriction": "Reiklanders, Marienburgers"
+        },
+        {
+            "ItemId": "23",
+            "ItemName": "Sigmarite Warhammer",
+            "ItemPrice": "15",
+            "ItemRarity": "Common",
+            "ItemRange": "Close Combat",
+            "ItemStrength": "As user +1",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Concussion</td><td>Warhammers are excellent at striking people sensless. When using a Warhammer in close combat a roll of 2-4 is treated as Stunned when rolling on the Injury chart.</td></tr><tr><td>Holy weapon</td><td>Each Warhammer is blessed by the High Matriarch herself before it is handed to the Sisters. The Warhammer has a +1 bonus on all to wound rolls against any Possessed or Undead models. Note that you will still need to score a 6 before any modifiers in order to cause a critical hit. Only Matriarchs and Sister Superiors may carry two Sigmarite Warhammers.</td></tr></table>",
+            "ItemOrigin": "Mordheim p22",
+            "ItemRestriction": "Sisters fo Sigmar, Warrior-Priests of Sigmar"
+        },
+        {
+            "ItemId": "24",
+            "ItemName": "Squig Prodder",
+            "ItemPrice": "15",
+            "ItemRarity": "Common",
+            "ItemRange": "Close Combat",
+            "ItemStrength": "As user",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Prodder training</td><td>A goblin with a Squig Prodder can keep all Cave Squigs within 12`` from going wild, instead of the normal 6`` (see the Minderz special rule under the Cave Squig entry).</td></tr><tr><td>Spearlike</td><td>Squig Prodder is treated exactly like a spear in hand-to-hand combat.</td></tr></table>",
+            "ItemOrigin": "Mordheim Annual 2002 p12",
+            "ItemRestriction": "Goblins"
+        },
+        {
+            "ItemId": "25",
+            "ItemName": "Steel Whip",
+            "ItemPrice": "10",
+            "ItemRarity": "Common",
+            "ItemRange": "Close Combat",
+            "ItemStrength": "As user",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Cannot be parried</td><td>The steel whip is a flexible weapon and the Priestesses use ti with great expertise. Attempts to parry its strikes are futile. A model attacked by a steel whip may not make parries.</td></tr><tr><td>Whipcrack</td><td>When the wielder charges they gain +1 A for that turn. This bonus attack as added after any other modifications. When thewielder is charged they gain +1A that they may only use against the charger. This additional attack will 'strike first'. If the wielder is simultaneously charged by two or more opponents they will still only receive a total of +1A. If the wielder is using two whips at the same time then they get +1A for the additional hand weapon, but only the first whip gets the whipcrack +1A.</td></tr></table>",
+            "ItemOrigin": "Mordheim p22",
+            "ItemRestriction": "Sisters of Sigmar, Chaos Dwarfs"
+        },
+        {
+            "ItemId": "26",
+            "ItemName": "Sword Breaker",
+            "ItemPrice": "30",
+            "ItemRarity": "8",
+            "ItemRange": "Close Combat",
+            "ItemStrength": "As user",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Parry</td><td>The sword breaker allows the wielder to parry the attacks of his opponent's in close combat. When your opponent ascores a hit, roll a D6. If you can roll greater than the highest 'to hit' of your opponent, you have parried the attack and the blow is wasted.</td></tr><tr><td>Trap Blade</td><td>Whenever you make a succesful parry attempt roll a D6. If you score a 4+, you break the weapon your opponent was using. The weapon is now useless and they must use another one, or if they have no other weapon, resort to unarmed combat.</td></tr></table>",
+            "ItemOrigin": "Mordheim Annual 2002 p84",
+            "ItemRestriction": "All"
+        },
+        {
+            "ItemId": "27",
+            "ItemName": "Weeping Blades",
+            "ItemPrice": "50",
+            "ItemRarity": "9",
+            "ItemRange": "Close Combat",
+            "ItemStrength": "As user",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Pair</td><td>Weeping Blades are traditionally used in pairs, one in each hand. A warrior armed with Weeping Blades gets an additional attack.</td></tr><tr><td>Venomous</td><td>The venom of Weeping Blades will enter the blood of the victim and ravage his organs and muscles. These weapons count as being permanently coated in black lotus (see the Equipment section). No additional poison may be applied to Weeping Blades.</td></tr><tr><td>Parry</td><td>Weeping Blades are swords and can be used for parrying.</td></tr></table>",
+            "ItemOrigin": "Morhdeim p29",
+            "ItemRestriction": "Skaven"
+        },
+        {
+            "ItemId": "28",
+            "ItemName": "Blade of Leaping Gold",
+            "ItemPrice": "200",
+            "ItemRarity": "13",
+            "ItemRange": "Close Combat",
+            "ItemStrength": "As user",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Thousand strikes</td><td>A Hero wielding the blade gains +1 Attack.</td></tr><tr><td>Leaping blade</td><td>No parries can be made agains the Blade of Leaping Gold.</td></tr></table>",
+            "ItemOrigin": "MiM p29",
+            "ItemRestriction": "Elves"
+        },
+        {
+            "ItemId": "29",
+            "ItemName": "Beastlash",
+            "ItemPrice": "10+D6",
+            "ItemRarity": "8",
+            "ItemRange": "Close Combat",
+            "ItemStrength": "As user -1",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Beastbane</td><td>The Beastmaster wielding a Beastlash causes Fear in animals, any animal charged or wishing to charge a Beastmaster with one of these weapons myst first take a Fear test as mentioned in the psychology sectino of the Mordheim rules.</td></tr><tr><td>Whipcrack</td><td>When the wielder charges they gain +1A for that turn. This bonus attack is added after any other modifications. When the wielder is charged they gain +1A that they may only use agains the charger. This additional attack will 'strike first'. If the wielder is simultaneously charged by two or more opponents they will still only receive a total of +1A. If the wielder is using two whips at the same time then they get +1A for the additional hand weapon, but only the first whip gets the whipcrack +1A.</td></tr></table>",
+            "ItemOrigin": "Dark Elves 1b p21",
+            "ItemRestriction": "Beastmasters"
+        },
+        {
+            "ItemId": "30",
+            "ItemName": "Boat Hook",
+            "ItemPrice": "8",
+            "ItemRarity": "Common",
+            "ItemRange": "Close Combat",
+            "ItemStrength": "As user -1",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Strike first</td><td>A warrior with a Boat Hook strikes first in the first turn of hand-to-hand combat.</td></tr><tr><td>Two-handed</td><td>As a Boat Hook requires two hands to use, amodel using a Boat Hook may not use a shield, buckler or additional weapon in close combat. If the model has a shield he still gets a +1 bonus to his armour save against shooting.</td></tr></table>",
+            "ItemOrigin": "",
+            "ItemRestriction": "All"
+        }
+        ,{
+            "ItemId": "31",
+            "ItemName": "Cathayan Longsword",
+            "ItemPrice": "75+2D6",
+            "ItemRarity": "12",
+            "ItemRange": "Close Combat",
+            "ItemStrength": "As user",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Mastercrafted</td><td>Attacks made with a Cathayan Longsword give the bearer +1 Initiative and +1 Weapon Skill.</td></tr><tr><td>Parry</td><td>Cathayan Longsword offer an excellent balance of defence and offence. A model armed with a Cathayan Longsword may parry blows. When his opponent rolls to hit, the model armed with a Cathayan Longsword may roll a D6. If the score is greater than the highest to hit score of his opponent, the model has parried the blow, and that attack is discarded. A model may not parry attacks made with double or more its own Strength – they are simply too powerful to be stopped.</td></tr><tr><td>Cutting edge</td><td>A Cathayan Longsword has an extra save modifier of -1, so a model with Strength 4 using a Cathayan Longsword has a -2 save modifier when he hits an opponent in hand-to-hand combat.</td></tr></table>",
+            "ItemOrigin": "MiM p56",
+            "ItemRestriction": "All"
+        }
+        ,{
+            "ItemId": "32",
+            "ItemName": "Celestial Iron Fan",
+            "ItemPrice": "125",
+            "ItemRarity": "12",
+            "ItemRange": "Close Combat",
+            "ItemStrength": "As user",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Parry</td><td>Celestial Iron Fan offer an excellent balance of defence and offence. A model armed with a Celestial Iron Fan may parry blows. When his opponent rolls to hit, the model armed with a Celestial Iron Fan may roll a D6. If the score is greater than the highest to hit score of his opponent, the model has parried the blow, and that attack is discarded. A model may not parry attacks made with double or more its own Strength – they are simply too powerful to be stopped.</td></tr><tr><td>Iron Fan</td><td>Attacks made with a Celestial Iron Fan give the bearer +1 Initiative. If a Hero has the Art of Silent Death skill then it applies to the fan attacks as well.</td></tr><tr><td>Parry Missiles</td><td>A Celestial Iron Fan can be used to parry missiles in addition to close combat attacks. For each hit by a missile weapon the warrior armed tih the fan may roll a D6. If the score is greater than the hit score, the warrior has parries the blow, and the attack is diregarded.</td></tr></table>",
+            "ItemOrigin": "MiM p55",
+            "ItemRestriction": "Battle Monks"
+        }
+        ,{
+            "ItemId": "33",
+            "ItemName": "Chain Sticks",
+            "ItemPrice": "20",
+            "ItemRarity": "8",
+            "ItemRange": "Close Combat",
+            "ItemStrength": "As user",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Two-handed</td><td>As Chain Sticks require two hands to use, amodel using Chain Sticks may not use a shield, buckler or additional weapon in close combat. If the model has a shield he still gets a +1 bonus to his armour save against shooting.</td></tr><tr><td>Flurry</td><td>A set of Chain Sticks allows its wielder to unleash a furious bludgeoning. A warrior armed with Chain Sticks gets +2 Attacks. This bousn only applies in the first turn of each hand-to-hand combat. Using Chain Sticks otherwise counts as having two hand weapons.</td></td></table>",
+            "ItemOrigin": "MiM p55",
+            "ItemRestriction": "Battle Monks"
+        }
+        ,{
+            "ItemId": "34",
+            "ItemName": "Dark Elf Blade",
+            "ItemPrice": "+20",
+            "ItemRarity": "9",
+            "ItemRange": "",
+            "ItemStrength": "",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Upgrade</td><td>Dark Elf warriors can upgrade a sword or dagger by paying +20gc.</td></tr></table>",
+            "ItemOrigin": "",
+            "ItemRestriction": "Dark Elves"
+        }
+        ,{
+            "ItemId": "35",
+            "ItemName": "Dragon Sword",
+            "ItemPrice": "20",
+            "ItemRarity": "10",
+            "ItemRange": "Close Combat",
+            "ItemStrength": "As user +1",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Two-handed</td><td>As a Dragon Sword require two hands to use, amodel using a Dragon Sword may not use a shield, buckler or additional weapon in close combat. If the model has a shield he still gets a +1 bonus to his armour save against shooting.</td></tr><tr><td>Parry</td><td>Dragon Sword offer an excellent balance of defence and offence. A model armed with a Dragon Sword may parry blows. When his opponent rolls to hit, the model armed with a Dragon Sword may roll a D6. If the score is greater than the highest to hit score of his opponent, the model has parried the blow, and that attack is discarded. A model may not parry attacks made with double or more its own Strength – they are simply too powerful to be stopped.</td></td></table>",
+            "ItemOrigin": "MiM p55",
+            "ItemRestriction": "Battle Monks"
+        }
+        ,{
+            "ItemId": "36",
+            "ItemName": "Great Axe",
+            "ItemPrice": "25",
+            "ItemRarity": "8",
+            "ItemRange": "Close Combat",
+            "ItemStrength": "As user +2",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Two-handed</td><td>As a Great Axe require two hands to use, amodel using a Great Axe may not use a shield, buckler or additional weapon in close combat. If the model has a shield he still gets a +1 bonus to his armour save against shooting.</td></tr><tr><td>Strike last</td><td>Double-handed weapons are so heavy that the model using them always strikes last, even when charging.</td></tr><tr><td>Cutting edge</td><td>A Great Axe has an extra save modifier of -1, so a model with Strength 4 using an axe has a -2 save modifier when he hits an opponent in hand-to-hand combat.</td></tr></table>",
+            "ItemOrigin": "MiM p55",
+            "ItemRestriction": "All"
+        }
+        ,{
+            "ItemId": "37",
+            "ItemName": "Greedy Fist",
+            "ItemPrice": "65",
+            "ItemRarity": "11",
+            "ItemRange": "",
+            "ItemStrength": "",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td></td><td></td></tr></table>",
+            "ItemOrigin": "",
+            "ItemRestriction": "Ogres"
+        }
+        ,{
+            "ItemId": "38",
+            "ItemName": "Iron Fist",
+            "ItemPrice": "15",
+            "ItemRarity": "Common",
+            "ItemRange": "Close combat",
+            "ItemStrength": "As user",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Parry</td><td>Iron Fists offer an excellent balance of defence and offence. A model armed with a Iron Fist may parry blows. When his opponent rolls to hit, the model armed with a Iron Fist may roll a D6. If the score is greater than the highest to hit score of his opponent, the model has parried the blow, and that attack is discarded. A model may not parry attacks made with double or more its own Strength – they are simply too powerful to be stopped.</td></tr><tr><td>Gloved</td><td>A model armed with an iron fist may not hold another weapon in the same hand. This means a double-handed weapon cannot be used. Having two iron fists means the Ogre may not use any other close combat weapons during a battle.</td></tr><tr><td>Dual-role</td><td>Iron fists operate like a buckler and a bladed hand weapon at the same time. This means that an iron fist allows the wearer to re-roll failed parry attempts if paired with a sword or another iron first.</td></tr></table>",
+            "ItemOrigin": "",
+            "ItemRestriction": "Ogres"
+        },
+        {
+            "ItemId": "39",
+            "ItemName": "Knuckledusters",
+            "ItemPrice": "5",
+            "ItemRarity": "6",
+            "ItemRange": "Close combat",
+            "ItemStrength": "As user",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Pair</td><td>Knuckledusters are used in pairs, on ein each hand. A warrior armed with knuckledusters gets and additional attack.</td></tr><tr><td>Concealable</td><td>Knuckledusters are small enough to stow away in any pocket. They do not count towards the tow close combat weapons a model may carry. They may be used in any scenario which prohibits use of weapons, such as 'Last Orders!' or 'Pit of Blood'.</td></tr></table>",
+            "ItemOrigin": "",
+            "ItemRestriction": "All"
+        },
+        {
+            "ItemId": "40",
+            "ItemName": "Kraken-tooth Sword",
+            "ItemPrice": "165",
+            "ItemRarity": "15",
+            "ItemRange": "Close combat",
+            "ItemStrength": "As user",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Teeth</td><td>Razor teeth of the blade can saw through all obstracles. A Kraken-tooth Sword ignores armour saves. Blade strikes with its saw causes an additional wound. Roll to determine critical hits as usual.</td></tr><tr><td>Parry</td><td>Kraken-tooth Swords offer an excellent balance of defence and offence. A model armed with a Kraken-tooth Sword may parry blows. When his opponent rolls to hit, the model armed with a Kraken-toot Sword may roll a D6. If the score is greater than the highest to hit score of his opponent, the model has parries the blow, and that attack is discarded. A model may not parry attacks made with double or more its own Strength - they are simply too powerful to be stopped.</td></tr></table>",
+            "ItemOrigin": "Marienburg p56",
+            "ItemRestriction": "All"
+        },
+        {
+            "ItemId": "41",
+            "ItemName": "Mancatcher",
+            "ItemPrice": "25",
+            "ItemRarity": "10",
+            "ItemRange": "Close combat",
+            "ItemStrength": "As user",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Capture</td><td>A model taken out of action by a Mancatcher becomes captured. Do not roll for Serious Injuries. <p>In case of Black Dwarfs, the catch is locked up in the Engine of Chaos instead.</p>If the warband does not include and Engine of Chaos, roll for Serious Injuries as normal. Large models, such as Ogres, Trolls and Minotaurs etc., cannot be captures this way, and neither can animals.</td></tr></table>",
+            "ItemOrigin": "",
+            "ItemRestriction": "Skaven, Chaos Dwarfs"
+        },
+        {
+            "ItemId": "42",
+            "ItemName": "Obsidian Weapon",
+            "ItemPrice": "4xPrice",
+            "ItemRarity": "12",
+            "ItemRange": "Close combat",
+            "ItemStrength": "As user +1",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Heavy</td><td>Obsidian weapons are so heavy that the warrior using them always strikes last, even when charging.</td></tr></table>",
+            "ItemOrigin": "Marienburg p56",
+            "ItemRestriction": "NOT Dwarfs, Elves, Sisters of Sigmar, Witch Hunter, Human Priests"
+        },
+        {
+            "ItemId": "43",
+            "ItemName": "Ogre Club",
+            "ItemPrice": "10",
+            "ItemRarity": "Common",
+            "ItemRange": "Close combat",
+            "ItemStrength": "As user",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Concussion</td><td>Ogre clubs are excellent to use for striking enemies sensless. When using and Ogre club, a roll of 2-4 is treated as stunned when rolling for Injuries.</td></tr><tr><td>Crushing attack</td><td>Ogre clubs my be wielded with impressive strength imposing -1 to enemy armour saves. Also the Strength of the attack is considered one higher for parry attempts by the defender, so a S3 model may not parry attacks by a S5 Ogre wielding the club. Crushing attack only applies if the Ogre uses the club with both hands.</td></tr></table>",
+            "ItemOrigin": "",
+            "ItemRestriction": "Ogres"
+        },
+        {
+            "ItemId": "44",
+            "ItemName": "Pike",
+            "ItemPrice": "12",
+            "ItemRarity": "7",
+            "ItemRange": "3''",
+            "ItemStrength": "As user",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Strike first</td><td>A model wielding a pike can strike first in the first round of combat even when charged by a model wielding a spear. After the initial round of combat resolve strikes in Initiative order. The model can change to normal hand-to-hand weapons after the initial round.</td></tr><tr><td>Long range</td><td>Due to its considerable length, a model that has a pike can attack another model from up to 3'' away without being a part of a hand-to-hand melee.</td></tr><tr><td>Two-handed</td><td>Pikes have to be used with both hands therefore only 1 attack is allowed. The model also cannot take advantage of a shield or buckler while using a pike.</td></tr></table>",
+            "ItemOrigin": "TC 14 p23",
+            "ItemRestriction": "Man-sized or larger creatures."
+        },
+        {
+            "ItemId": "45",
+            "ItemName": "Quarterstaff",
+            "ItemPrice": "15",
+            "ItemRarity": "Common",
+            "ItemRange": "Close combat",
+            "ItemStrength": "As user",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Balanced</td><td>A Quarterstaff is, specially light and easy to wield. A model armed with a fighting staff gets +1 Initiative in close combat.</td></tr><tr><td>Freestyle</td><td>Although a staff does not always require two hands to use it cannot be combined with another weapon, sheild, buckler, etc. However it can be combined with the Monks bare hand attacks. This means that the Monk is stil getting +1 Attack.</td></tr><tr><td>Parry</td><td>Quarterstaff offer an excellent balance of defence and offence. A model armed with a Quarterstaff may parry blows. When his opponent rolls to hit, the model armed with a Quarterstaff may roll a D6. If the score is greater than the highest to hit score of his opponent, the model has parried the blow, and that attack is discarded. A model may not parry attacks made with double or more its own Strength – they are simply too powerful to be stopped.</td></tr></table>",
+            "ItemOrigin": "Battle Monks p3",
+            "ItemRestriction": "Battle Monks"
+        },
+        {
+            "ItemId": "46",
+            "ItemName": "Spiked Gauntlet",
+            "ItemPrice": "15",
+            "ItemRarity": "7",
+            "ItemRange": "Close combat",
+            "ItemStrength": "As user",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Parry</td><td>Spiked Gauntlet offer an excellent balance of defence and offence. A model armed with a Spiked Gauntlet may parry blows. When his opponent rolls to hit, the model armed with a Spiked Gauntlet may roll a D6. If the score is greater than the highest to hit score of his opponent, the model has parried the blow, and that attack is discarded. A model may not parry attacks made with double or more its own Strength – they are simply too powerful to be stopped.<p>The model with Spiked Gauntlet may re-roll any failed parries once.</p></td></tr></table>",
+            "ItemOrigin": "Mordheim p106",
+            "ItemRestriction": "All"
+        },
+        {
+            "ItemId": "47",
+            "ItemName": "Stiletto Blade",
+            "ItemPrice": "20+3D6",
+            "ItemRarity": "8",
+            "ItemRange": "Close combat",
+            "ItemStrength": "As user -1",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Suprise attack</td><td>Stiletto Blade enables its wielder to have +1 Attack at -1 Strength of the user.</td></tr></table>",
+            "ItemOrigin": "Arabian Merchant p24",
+            "ItemRestriction": "All"
+        },
+        {
+            "ItemId": "48",
+            "ItemName": "Starblade",
+            "ItemPrice": "15",
+            "ItemRarity": "7",
+            "ItemRange": "Close Combat",
+            "ItemStrength": "As user",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>+1 Enemy Armour Save</td><td>Starblades are not the best weapons to use for penetrating an enemy model's armour. An enemy wounded by a Starblade gains a +1 bonus to his armour save and a 6+ armour save if he has none normally.</td></tr><tr><td>Parry</td><td>Starblade offers an excellent balance of defence and offence. A model wrmed with a Starblade may parry the first successful blow of any combat on a 4+. The model has parried the blow, and that attack is discarded. A model may not parry attacks made with double or more its own Strength - they are simply too powerful to be stopped.</td></tr></table>",
+            "ItemOrigin": "Marienburg p25/Compilation Fireden p22",
+            "ItemRestriction": "Amazons"
+        },
+        {
+            "ItemId": "49",
+            "ItemName": "Trident",
+            "ItemPrice": "15",
+            "ItemRarity": "7",
+            "ItemRange": "Close Combat",
+            "ItemStrength": "As user",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Strike first</td><td>A warrior with a trident strikes first in the first turn of hand-to-hand combat.</td></tr><tr><td>Parry</td><td>Tridents offer an excellent balance of defence and offence. A model armed with a Trident may parry blows. When his opponent rolls to hit, the model armed with a sword may roll a D6. If the score is greater than the highest to hit score of his opponent, the model has parried the blow, and that attack is discarded. A model may not parry attacks made with double or more its own Strength – they are simply too powerful to be stopped.</td></tr></table>",
+            "ItemOrigin": "Marienburg p217",
+            "ItemRestriction": "All"
+        },
+        {
+            "ItemId": "50",
+            "ItemName": "Pitchfork",
+            "ItemPrice": "15",
+            "ItemRarity": "7",
+            "ItemRange": "Close Combat",
+            "ItemStrength": "As user",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Strike first</td><td>A warrior with a pitchfork strikes first in the first turn of hand-to-hand combat.</td></tr><tr><td>Parry</td><td>Pitchforks offer an excellent balance of defence and offence. A model armed with a Pitchfork may parry blows. When his opponent rolls to hit, the model armed with a sword may roll a D6. If the score is greater than the highest to hit score of his opponent, the model has parried the blow, and that attack is discarded. A model may not parry attacks made with double or more its own Strength – they are simply too powerful to be stopped.</td></tr></table>",
+            "ItemOrigin": "Marienburg p217",
+            "ItemRestriction": "Halfings"
+        },
+        {
+            "ItemId": "51",
+            "ItemName": "Veteran's Hand",
+            "ItemPrice": "85",
+            "ItemRarity": "12",
+            "ItemRange": "Close Combat",
+            "ItemStrength": "As user +1",
+            "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Pincers</td><td>The Hero may carry no weapons in this arm, but gains an extra attack in close combat with a +1 Strength bonus while wearing the veteran's hand. Two-handed weapons are impossible to use with the hand.</td></tr><tr><td>Prosthetic</td><td>Heroes with a Serious Injusry who have lost a hand or arm due to a 'Hand Injury' or 'Arm Wound' can be fitted with a Veteran's Hand. A Hero with a 'Hand Injury' ignores the penalty applied to Weapon Skill. If the injured wearer gets a 'Hand Injury' or 'Arm Wound' in further battles, these can be ignored on a roll of 4+ as the hit was taken by the Veteran's Hand instead but on a roll of 6 the Veteran's Hand is destroyed.<p>When being worn as a prosthetic, the Veteran's Hand may be used in any scenario which prohibits use of weapons, such as 'Last Orders!' or 'Pit of Blood'.</p></td></tr><tr><td>Parry</td><td>Veteran;s Hand offer an excellent balance of defence and offence. A model armed with a Veteran's Hand may parry blows. When his opponent rolls to hit, the model armed with a Veteran's Hand may roll a D6. If the score is greater than the highest to hit score of his opponent, the model has parried the blow, and that attack is discarded. A model may not parry attacks made with double or more its own Strength – they are simply too powerful to be stopped.</td></tr></table>",
+            "ItemOrigin": "Marienburg p26",
+            "ItemRestriction": "All"
+        }
+]

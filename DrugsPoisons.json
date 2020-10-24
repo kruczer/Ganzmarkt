@@ -1,0 +1,93 @@
+[
+    {
+        "ItemId": "0",
+        "ItemName": "Black Dust",
+        "ItemPrice": "25+D6x10",
+        "ItemRarity": "11",
+        "ItemDescription": "<p>There is a popular new vice among hoodlums and heretics, available only through vile drug dens across the Empire. Black dust is a warpstone derived narcotic, which promotes a warriors resistance to the effects of wyrdstone. Dealers closely guard the secret of their source for dust.</p><p>Effect: A warpstone derived narcotic, the dust promotes a warriors resistance to the effects of wyrdstone. Warriors using Black Dust have a natural tolerance for wyrdstone allowing Heroes to re-roll a failed check on the Warp-touch Chart. Skaven may not use Black Dust. The snuff becomes less scarce once a supplier is first found by a Hero – Rare 9 for the warband to locate the next supply. However, on a rarity roll of 2 that suplier has been caught and hanged!</p><p>Side effect: After the battle, roll 2D6. On a roll of 2-3 the warrior becomes addicted and you must try to buy him a new batch of Black Dust before every battle from now on. If you fail to buy any, he does not gain any experience during the next battle. On a roll of 12 the warrior overdosed! The corrupting power of Chaos has caused the model to gain a mutation! Roll on the Random Mutation Chart once. In the post battle sequence the addicted warrior must search for Black Dust.</p>",
+        "ItemOrigin": "MiM p78",
+        "ItemRestriction": "All"
+    },
+    {
+        "ItemId": "1",
+        "ItemName": "Black Lotus",
+        "ItemPrice": "10+D6",
+        "ItemRarity": "9, 7 for Skaven",
+        "ItemDescription": "<p>In the deepest forests of the Southlands grows a plant that is extremely poisonous. It is known as Black Lotus and is much sought after by alchemists, assassins, wizards of the Western Coast and bored wives.</p><p>A weapon coated with the sap of the Black Lotus will wound its target automatically if you roll a 6 to hit. Note that you can still roll a dice for every wound inflicted in this way. If you roll a 6, you will inflict a critical hit with that roll. If you do not roll a 6, you will cause a normal wound. Take armour saves as normal.</p>",
+        "ItemOrigin": "Mordheim Living Rulebook p36",
+        "ItemRestriction": "Not for Priests, Witch Hunters or Sisters of Sigmar"
+    },
+    {
+        "ItemId": "2",
+        "ItemName": "Crimson Shade",
+        "ItemPrice": "35+D6",
+        "ItemRarity": "8",
+        "ItemDescription": "<p>Crimson Shade is the name given by Old Worlders to the leaves of the blood oak of Estalia. It is an extremely addictive drug, but grants its users inhuman quickness and strength.</p><p>Effect: A model using Crimson Shade has his Initiative increased by +D3 points, and Movement and Strength by +1 (this effect lasts for one game). Crimson Shade has no effect on Undead such as Vampires and Zombies, or the Possessed.</p><p>Side effects: After the battle, roll 2D6. On a roll of 2-3, the model becomes addicted and you must try to buy him a new batch of Crimson Shade before every battle from now on. If you fail to buy any, he will leave your warband. On a roll of 12 the model’s Initiative is increased permanently by +1.</p>",
+        "ItemOrigin": "Mordheim Living Rulebook p36",
+        "ItemRestriction": "All"
+    },
+    {
+        "ItemId": "3",
+        "ItemName": "Daemon Dust",
+        "ItemPrice": "70+D6",
+        "ItemRarity": "12",
+        "ItemDescription": "The berserkers of Norsca snort a herbal powder, before they go into battle. It takes away their pain, makes them feel stronger, almost invincible. Doses of the expensive dust are preserved in bundles of dried leaves, twisted into balls. Once a leaf-twist is crumbled, a blue powder is pinched from the palm like snuff, shoved up one nostril and sharply inhaled. Exploding in the brain, the dangerous dust burns like liquid fire through the veins, putting off any pain the inhaler should be feeling. A daemon dust rush provides a sudden influx of understanding and vision! The dust-strength in the body gives an edge over the perfect physical specimen. Once the dust wears off, all the pain of the world floods into the user's body, causing it to collapse.</p><p>Effect: A warrior snorting Daemon Dust dust receives +1 Strength, +1 Initiative and is subject to frenzy. The dust becomes less scarce once a supplier is first found by a Hero – Rare 10 for the warband to locate the next supply. However, on a rarity roll of 2 that suplier has been caught and hanged!</p><p>Side effect: After the battle, roll 2D6. On a roll of 2-3 the collapsed Hero does nothing in the post battle sequence, this includes missing the exploration phase. Roll onthe Serious Injury chart and apply the result. On a roll of 12 the warrior's Strength is increased permanantly by +1.</p>",
+        "ItemOrigin": "MiM p78",
+        "ItemRestriction": "All"
+    },
+    {
+        "ItemId": "4",
+        "ItemName": "Dark Venom",
+        "ItemPrice": "30+D6",
+        "ItemRarity": "9",
+        "ItemDescription": "<p>This is a poison extracted from Heldrakes, gigantic sea serpents that plague the Western Ocean and the coast of Naggaroth. The slightest wound infected by Dark Venom causes excruciating pain, incapacitating the bravest of men.</p><p>Any hit caused by a weapon coated with Dark Venom counts as having +1 Strength, so, for example, if a warrior with Strength 3 wielding a poisoned sword hits an opponent, he will cause a Strength 4 hit instead. Armour saving throws are modified to take into account the increased Strength of the attack.</p>",
+        "ItemOrigin": "Mordheim Living Rulebook p36",
+        "ItemRestriction": "Not for Priests, Witch Hunters or Sisters of Sigmar"
+    },
+    {
+        "ItemId": "5",
+        "ItemName": "Mad Cap Mushrooms",
+        "ItemPrice": "30+D6",
+        "ItemRarity": "9",
+        "ItemDescription": "<p>The feared cult of Goblin Fanatics of the Worlds Edge Mountains use these hallucinogenic mushrooms to drive themselves into a frenzied state.</p><p>Effect: Any warrior who takes Mad Cap Mushrooms before a battle will be subject to frenzy. The Mad Cap Mushroom has no effect on Undead such as Vampires and Zombies, or the Possessed.</p><p>Side effect: After the battle, roll a D6. On a roll of a 1 the model becomes permanently stupid.</p>",
+        "ItemOrigin": "Mordheim Living Rulebook p36",
+        "ItemRestriction": "All"
+    },
+    {
+        "ItemId": "6",
+        "ItemName": "Mandrake Root",
+        "ItemPrice": "25+D6",
+        "ItemRarity": "8",
+        "ItemDescription": "<p>The man-shaped Mandrake Root grows in the rotting swamps of Sylvania. It is a noxious, deadly plant which is highly addictive and slowly kills its users, but also allows them to shrug off almost any pain.</p><p>Effect: Mandrake Root makes a man almost oblivious to pain. His Toughness is increased by +1 for the duration of a battle and he treats all stunned results as knocked down instead. Mandrake Root has no effect on Undead, such as Vampires and Zombies, or on the Possessed.</p><p>Side effects: Mandrake Root is highly poisonous. At the end of the battle, roll 2D6. On a roll of 2-3 the model loses 1 point of Toughness permanently.</p>",
+        "ItemOrigin": "Mordheim Living Rulebook p36",
+        "ItemRestriction": "All"
+    },
+    {
+        "ItemId": "7",
+        "ItemName": "Manticore Spoor",
+        "ItemPrice": "30+2D6",
+        "ItemRarity": "9",
+        "ItemDescription": "<p>A soporific substance just as lethal as the beast which excreted it. Penetration of the victims flesh by a warriors blade smeared with fresh dung from a Manticore induces a dreamless sleep state followed by near certain death.</p><p>Any model wounded by a weapon smeared with Manticore Spoor must roll a D6 at the beginning of its turn: On a roll of 1 the poisoned model loses one wound. On a roll of 6 the poison's effect ends and the model has to test no more. Multiple wounds caused by a weapon using Manticore Spoor do not cause the victim to test more than once per turn.</p>",
+        "ItemOrigin": "BtB p32",
+        "ItemRestriction": "All"
+    },
+    {
+        "ItemId": "8",
+        "ItemName": "Slaaneshi's Dream",
+        "ItemPrice": "50+D6",
+        "ItemRarity": "10",
+        "ItemDescription": "<p>Slaneeshi's Dream is a drug produced from the mud extract of the Cursed Marshes.</p><p>Effect: Slaneeshi's Dream makes a warrior immune to psychology and the effects of poison. Resolve the effects of poison attacks normally but apply the outcome of any attacks after the battle. The juice becomes less scarce once a supplier is first found by a Hero – Rare 8 for the warband to locate the next supply. However, on a rarity roll of 2 that suplier has been caught and hanged!</p><p>Side effect: After the battle, roll 2D6. On a roll of 2-3 the warrior loses 1 point of Leadership permanantly. On a roll of 12 the warrior becomes immune to psychology permanantly.</p>",
+        "ItemOrigin": "",
+        "ItemRestriction": "All"
+    },
+    {
+        "ItemId": "9",
+        "ItemName": "Spider Spittle",
+        "ItemPrice": "30+D6",
+        "ItemRarity": "7",
+        "ItemDescription": "<p>Toxins are harvested from small animals poisoned by spider bites to concoct a paralytic dose. A blade envenomed with the arachnid poison can be used to paralyze a foe in close quarters.</p><p>Any warrior hit by a weapon laced with Spider Spittle must pass an immediate Toughness test or becomes paralyzed. A paralyzed warrior cannot move or fight and are hit automatically in close combat. The models remains paralyzed until it passes a Toughness test in its recovery phase.</p>",
+        "ItemOrigin": "",
+        "ItemRestriction": "All"
+    }
+       
+]

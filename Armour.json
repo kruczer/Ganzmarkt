@@ -1,0 +1,236 @@
+[
+    {
+        "ItemId": "0",
+        "ItemName": "Light Armour",
+        "ItemPrice": "16",
+        "ItemRarity": "Common",
+        "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Save</td><td>A warrior who is wearing light armour has a basic D6 saving throw of 6.</td></tr></table>",
+        "ItemOrigin": "Mordheim p34",
+        "ItemRestriction": "All"
+    },
+    {
+        "ItemId": "1",
+        "ItemName": "Heavy Armour",
+        "ItemPrice": "40",
+        "ItemRarity": "Common",
+        "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Save</td><td>A warrior that is wearing heavy armour has a basic D6 saving throw of 5+.</td></tr><tr><td>Movement</td><td>A warrior that is armed with both heavy armour and a shield suffers a -1 Movement penalty.</td></tr></table>",
+        "ItemOrigin": "Mordheim p34",
+        "ItemRestriction": "All"
+    },
+    {
+        "ItemId": "2",
+        "ItemName": "Shield",
+        "ItemPrice": "4",
+        "ItemRarity": "Common",
+        "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Save</td><td>A model with a shield has a basic save of 6 on a D6.</td></tr></table>",
+        "ItemOrigin": "Mordheim p35",
+        "ItemRestriction": "All"
+    },
+    {
+        "ItemId": "3",
+        "ItemName": "Buckler",
+        "ItemPrice": "4",
+        "ItemRarity": "Common",
+        "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Parry</td><td>A model equipped with a buckler may parry the first blow in each round of hand-to-hand combat. When his opponent scores a hit, a model with a buckler may roll 1D6. If the score is greater than the highest to hit score of his opponent, the model has parried the blow, and that attack is discarded. A model may not parry attacks made with double or more its own Strength - they are simply too powerful to be stopped.</td></tr></table>",
+        "ItemOrigin": "Mordheim p35",
+        "ItemRestriction": "All"
+    },
+    {
+        "ItemId": "4",
+        "ItemName": "Helmet",
+        "ItemPrice": "4",
+        "ItemRarity": "Common",
+        "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Avoid stun</td><td>A model that is equipped with a Helmet has a special 4+ save on a D6 against being stunned. If the save is made, treat the stunned result as knocked down instead. This save is not modified by the opponent Strength.</td></tr></table>",
+        "ItemOrigin": "Mordheim p35",
+        "ItemRestriction": "All"
+    },
+    {
+        "ItemId": "5",
+        "ItemName": "Ithilmar Armour",
+        "ItemPrice": "72",
+        "ItemRarity": "Rare 11",
+        "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Save</td><td>Ithilmar Armour gives the wearer a 5+ basic save.</td></tr><tr><td>Light</td><td>Ithilmar Armour does not slow the wearer down if he is also armed with a shield.</td></tr></table>",
+        "ItemOrigin": "Mordheim p35",
+        "ItemRestriction": "All"
+    },
+    {
+        "ItemId": "6",
+        "ItemName": "Gromril Armour",
+        "ItemPrice": "120",
+        "ItemRarity": "Rare 11",
+        "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Save</td><td>Gromril Armour gives the wearer 4+ basic save.</td></tr><tr><td>Light</td><td>Gromril Armour does not slow the wearer down if he is also armed with a shield.</td></tr></table>",
+        "ItemOrigin": "Mordheim p35",
+        "ItemRestriction": "All"
+    },
+    {
+        "ItemId": "7",
+        "ItemName": "Armour of the Wildwood",
+        "ItemPrice": "104",
+        "ItemRarity": "Rare 12",
+        "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Save</td><td>Armour of the Wildwood provides a 6+ saving throw</td></tr><tr><td>Wildwood</td><td>The Hero receives +1 Toughness and +1 Movement.</td></tr></table>",
+        "ItemOrigin": "MiM p29",
+        "ItemRestriction": "Elves"
+    },
+    {
+        "ItemId": "8",
+        "ItemName": "Banded Belly Plate",
+        "ItemPrice": "72",
+        "ItemRarity": "Rare 12",
+        "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Save</td><td>A model with a Banded Belly Plate has a basic save of 6 on a D6.</td></tr><tr><td>Belly Save</td><td>Once per battle when the Hero suffers a critical hit you may reduce it to a normal wound by catching it on the belly plate.</td></tr></table>",
+        "ItemOrigin": "MiM p29",
+        "ItemRestriction": "Ogres"
+    },
+    {
+        "ItemId": "9",
+        "ItemName": "Barding",
+        "ItemPrice": "24",
+        "ItemRarity": "Rare 8",
+        "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Save</td><td>A model mounted on barded mount receives an additional +1 Armour Save.</td></tr><tr><td>Animal Protection</td><td>A mount wearing barding will only be killed on a D6 roll of a 1 if the model is taken out of action.</td></tr></table>",
+        "ItemOrigin": "EiF p16",
+        "ItemRestriction": "Mounts/Warhorses"
+    },
+    {
+        "ItemId": "10",
+        "ItemName": "Beast Hide",
+        "ItemPrice": "20",
+        "ItemRarity": "Rare 7",
+        "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Save</td><td>A model with a Beast Hide has a save of 6 on a D6 that cannot be modified by Strength of the attacker.</td></tr></table>",
+        "ItemOrigin": "",
+        "ItemRestriction": "All"
+    },
+    {
+        "ItemId": "11",
+        "ItemName": "Wyvern Hide Cloak",
+        "ItemPrice": "20",
+        "ItemRarity": "Rare 7",
+        "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Save</td><td>A model with a Wyvern Hide Cloak has a save of 6 on a D6 that cannot be modified by Strength of the attacker.</td></tr></table>",
+        "ItemOrigin": "MiM p130",
+        "ItemRestriction": "All"
+    },
+    {
+        "ItemId": "12",
+        "ItemName": "Blessed Hauberk",
+        "ItemPrice": "132",
+        "ItemRarity": "Rare 12",
+        "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Save</td><td>The Blessed Hauberk can be worn instead of light armour for a saving throw of 6+.</td></tr><tr><td>Blessed</td><td>The blessing conveys +1 Movement, +1 Toughness and +1 Wound.</td></tr></table>",
+        "ItemOrigin": "MiM p29",
+        "ItemRestriction": "Witch Hunters"
+    },
+    {
+        "ItemId": "13",
+        "ItemName": "Blessed Stag Hide",
+        "ItemPrice": "32",
+        "ItemRarity": "Rare 10",
+        "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Blessed Hide</td><td>A model with the Blessed Stag Hide can re-roll a failed Initiative thest once per turn.</td></tr></table>",
+        "ItemOrigin": "Horned Hunters p2",
+        "ItemRestriction": "All"
+    },
+    {
+        "ItemId": "14",
+        "ItemName": "Chaos Armour",
+        "ItemPrice": "148",
+        "ItemRarity": "Rare 11",
+        "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Save</td><td>A model with the Chaos Armour has a basic save of 4+ on a D6.</td></tr><tr><td>Rarity</td><td>When searching for Chaos Armour a warrior gains +1 on his roll for each model the took out of action in the previous battle.</td></tr><tr><td>Cost</td><td>The cost for found Chaos Armour is decreased by 1 gold crown for each Experience point the Hero has.</td></tr><tr></tr><tr></tr></table>",
+        "ItemOrigin": "BtB p31",
+        "ItemRestriction": "Marauders of Chaos, Norse, Beastmen, Chaos Dwarfs, Cults of Chaos"
+    },
+    {
+        "ItemId": "15",
+        "ItemName": "Enchanted Skins",
+        "ItemPrice": "16",
+        "ItemRarity": "Rare 6",
+        "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Save</td><td>Any model waring Enchanged Skins receives a 6+ special save versus any inflicted wounds.</td></tr><tr><td>Magic protection</td><td>The wearer of Enchanted Skins is unaffected by enemy magic on a roll of 5+.</td></tr></table>",
+        "ItemOrigin": "Custom Compendium - From Lustria",
+        "ItemRestriction": "Amazons"
+    },
+    {
+        "ItemId": "16",
+        "ItemName": "Cooking Pot",
+        "ItemPrice": "4",
+        "ItemRarity": "Common",
+        "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Avoid stun</td><td>A model that is equipped with a Cooking Pot has a special 4+ save on a D6 against being stunned. If the save is made, treat the stunned result as knocked down instead. This save is not modified by the opponent Strength.</td></tr></table>",
+        "ItemOrigin": "Mordheim p35",
+        "ItemRestriction": "All"
+    },
+    {
+        "ItemId": "17",
+        "ItemName": "Lamellar Armour",
+        "ItemPrice": "96",
+        "ItemRarity": "Rare 9",
+        "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Save</td><td>A warrior that is wearing a Lamellar Armour has a basic D6 saving throw of 4+.</td></tr><tr><td>Movement</td><td>A warrior that is armed with both a Lamellar Armour and a shield suffers a -1 Movement penalty.</td></tr></table>",
+        "ItemOrigin": "BtB p31",
+        "ItemRestriction": "All"
+    },
+    {
+        "ItemId": "18",
+        "ItemName": "The Oaken Armour",
+        "ItemPrice": "120",
+        "ItemRarity": "Rare 12",
+        "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Save</td><td>A model with the Oaken Armour has a basic save of 5+ on a D6.</td></tr><tr><td>Antient Oak</td><td>The Hero receives +1 Toughness.</td></tr><tr><td>Enchaned Wood</td><td>Enemy models receive -1 to hit the wearer in close combat.</td></tr></table>",
+        "ItemOrigin": "MiM p29",
+        "ItemRestriction": "Elf Rangers"
+    },
+    {
+        "ItemId": "19",
+        "ItemName": "Pavise",
+        "ItemPrice": "20",
+        "ItemRarity": "Rare 8",
+        "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Save</td><td>In close combat a model with a Pavise has a basic save of 6 on a D6 (treat it as shield), but only if the warrior was charged to his front.</td></tr><tr><td>Mobile Cover</td><td>A warrior using a Pavice counts as if he is in cover against missile attacks (-1 to hit). </td></tr><tr><td>Cumbersome</td><td>Because the Pavise is so heavy and cumbersome, the bearer moves at half pace.</td></tr></table>",
+        "ItemOrigin": "Ye Olde Curiosity Shoppe p3",
+        "ItemRestriction": "All"
+    },
+    {
+        "ItemId": "20",
+        "ItemName": "Sea Dragon Cloak",
+        "ItemPrice": "40+2D6",
+        "ItemRarity": "Rare 10",
+        "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Scales Save</td><td>5+ armour save in close combat and 4+ armour save against missiles.</td></tr></table>",
+        "ItemOrigin": "Dark Elf warband p21",
+        "ItemRestriction": "Dark Elves, Sea Elf Rangers"
+    },
+    {
+        "ItemId": "21",
+        "ItemName": "Skull Cap",
+        "ItemPrice": "56",
+        "ItemRarity": "Rare 11",
+        "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Noggin protection</td><td>A model with a Skull Cap receives a +1 Toughness.</td></tr></table>",
+        "ItemOrigin": "MiM p29",
+        "ItemRestriction": "Ogres"
+    },
+    {
+        "ItemId": "22",
+        "ItemName": "Steel Cloth",
+        "ItemPrice": "60+D6*10",
+        "ItemRarity": "Rare 11",
+        "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Save</td><td>This can be worn under normal armour to add a further +1 to armour save or can be worn on its own giving the wearer a 6+ save.</td></tr><tr><td>Flammable</td><td>The item is destroyed if the Hero wearing it is ever set on fire.</td></tr></table>",
+        "ItemOrigin": "BrB p36",
+        "ItemRestriction": "All"
+    },
+    {
+        "ItemId": "23",
+        "ItemName": "Toughened Leathers",
+        "ItemPrice": "4",
+        "ItemRarity": "Common",
+        "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Save</td><td>Toughened Leathers work exactly like light armour, giving the wearer a 6+ Armour Save.</td></tr><tr><td>Only armour</td><td>Toughened Leathers cannot be combined with the effects of any other armour except a helmet or buckler.</td></tr><tr><td>Undesirable</td><td>Toughened leathers cannot be sold back at the Trading Post.</td></tr></table>",
+        "ItemOrigin": "Opulent Goods p2",
+        "ItemRestriction": "All"
+    },
+    {
+        "ItemId": "24",
+        "ItemName": "Wolf Cloak",
+        "ItemPrice": "8",
+        "ItemRarity": "Special",
+        "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Save</td><td>A model wearing Wolf Cloakwill gain +1 to his Armour Saves against all shooting attacks.</td></tr><tr><td>Special acquisition</td><td>To acquire Wolf Cloak a Hero must pay 10gc (to represent the expence of travelling to Middenheim and taking part in a hunt). In addition, the Hero must roll equal to or under his Strength on a D6. If successful, the Hero finds and slayes the wolf and can wear its cloak as a mark of his skill and prowess.</td></tr></table>",
+        "ItemOrigin": "",
+        "ItemRestriction": "All"
+    },
+    {
+        "ItemId": "25",
+        "ItemName": "Norse Furs",
+        "ItemPrice": "8",
+        "ItemRarity": "Special",
+        "ItemSpecial": "<table class='MWSpecialTable'><tr><td>Save</td><td>A model wearing Norse Furs will gain +1 to his Armour Saves against all shooting attacks.</td></tr><tr><td>Special acquisition</td><td>To acquire Norse Furs a Hero must pay 10gc (to represent the expence of travelling to Norsca and taking part in a hunt). In addition, the Hero must roll equal to or under his Strength on a D6. If successful, the Hero finds and slayes the wolf and can wear its cloak as a mark of his skill and prowess.</td></tr></table>",
+        "ItemOrigin": "Mordheim Annual 2002 p16",
+        "ItemRestriction": "All"
+    }
+]
